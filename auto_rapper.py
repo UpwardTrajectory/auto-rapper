@@ -84,3 +84,9 @@ class gpt2():
     
     __init__(self):
         pass
+
+
+def test_print():
+    return "test of a string output"
+
+    
