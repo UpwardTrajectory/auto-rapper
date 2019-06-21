@@ -1,5 +1,5 @@
 # Auto-rapper:
-We're trying to construct a Rap generator that will have adjustable styles, lengths, and temperature. Ideally the user would be able to use their own input to start things off, similar to [talk to transformer](https://talktotransformer.com/)
+This is a Rap generator that has adjustable styles, lengths, and "temperature" aka randomness. Optionally, the user can train new models that will match the style of any input text (this takes some time). Also, the user can input a starting text, similar to [talk to transformer](https://talktotransformer.com/)
 
 
 ## The Data
