@@ -80,12 +80,6 @@ def export_text(artist_name, artist_dict):
     return f'{file} saved to current folder'
 
 
-class gpt2():
-    
-    __init__(self):
-        pass
-
-
 def test_print():
     return "test of a string output"
 
