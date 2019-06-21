@@ -9,7 +9,7 @@ We have access to lyrics from all publicly available songs.
 Access the Genius.com API through the lyricsgenius python package to get lyrics from prolific rappers, then train models to learn the unique styles of each.
 
 ## The Preperation
-Take lyrics from all songs by each rapper and place them in unique .txt files to be used when fine tuning the model.
+Take lyrics from all songs by each rapper and place them in unique .txt files to be used when fine tuning the model. Put lyricsgenius functions into .py files for simplicity.
 
 ## The Modeling
 We used google colab with a gpu to Retrain gpt-2's 345mb model on each of the rappers, then saved each uniquely retrained model for future use.
